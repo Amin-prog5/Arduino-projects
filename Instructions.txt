@@ -1,0 +1,1 @@
+Used in this project 3 LEDS red (pin 7) , Yellow (pin 12) and green(pin 8) and 3 resistance (1k) all with Arduino micro Controller
